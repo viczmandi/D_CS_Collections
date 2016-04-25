@@ -1,0 +1,6 @@
+c:\users\viczmandni\documents\visual studio 2015\Projects\Week14B_Collections\Week14B_Collections\bin\Debug\Week14B_Collections.exe.config
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week14B_Collections\Week14B_Collections\bin\Debug\Week14B_Collections.exe
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week14B_Collections\Week14B_Collections\bin\Debug\Week14B_Collections.pdb
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week14B_Collections\Week14B_Collections\obj\Debug\Week14B_Collections.csprojResolveAssemblyReference.cache
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week14B_Collections\Week14B_Collections\obj\Debug\Week14B_Collections.exe
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\Week14B_Collections\Week14B_Collections\obj\Debug\Week14B_Collections.pdb
